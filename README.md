@@ -2,7 +2,7 @@
 
 This repository contains lensing power spectrum computations from the following paper:
 
-> Chung, Foreman, and van Engelen, *Baryonic effects on CMB lensing and neutrino mass constraints*, 2019, arXiv:19mm.xxxxx
+> Chung, Foreman, and van Engelen, *Baryonic effects on CMB lensing and neutrino mass constraints*, 2019, [arXiv:1910.09565](https://arxiv.org/abs/1910.09565)
 
 These computations are made using matter power spectra measured from the OWLS, IllustrisTNG, Horizon, and BAHAMAS simulation suites. Please refer to the paper for more details.
 
@@ -16,7 +16,7 @@ The first column contains ell values the spectra were evaluated at, and each rem
 
 If any of these measurements are used in original research, please cite the associated paper:
 
-> Chung, Foreman, and van Engelen, *Baryonic effects on CMB lensing and neutrino mass constraints*, 2019, arXiv:19mm.xxxxx
+> Chung, Foreman, and van Engelen, *Baryonic effects on CMB lensing and neutrino mass constraints*, 2019, [arXiv:1910.09565](https://arxiv.org/abs/1910.09565)
 
 In addition, to recognize the work that has gone into each simulation suite by the respective team, please cite the following papers (at minimum) if computations based on the corresponding simulations are used:
 
