@@ -2,7 +2,7 @@
 
 This repository contains lensing power spectrum computations from the following paper:
 
-> Chung, Foreman, and van Engelen, *Baryonic effects on CMB lensing and neutrino mass constraints*, 2019, [arXiv:1910.09565](https://arxiv.org/abs/1910.09565)
+> Chung, Foreman, and van Engelen, *Baryonic effects on CMB lensing and neutrino mass constraints*, [Phys. Rev. D 101, 063534 (2020)](https://dx.doi.org/10.1103/PhysRevD.101.063534), [arXiv:1910.09565](https://arxiv.org/abs/1910.09565)
 
 These computations are made using matter power spectra measured from the OWLS, IllustrisTNG, Horizon, and BAHAMAS simulation suites. Please refer to the paper for more details.
 
@@ -22,7 +22,7 @@ The first column contains ell values the spectra were evaluated at, and each rem
 
 If any of these measurements are used in original research, please cite the associated paper:
 
-> Chung, Foreman, and van Engelen, *Baryonic effects on CMB lensing and neutrino mass constraints*, 2019, [arXiv:1910.09565](https://arxiv.org/abs/1910.09565)
+> Chung, Foreman, and van Engelen, *Baryonic effects on CMB lensing and neutrino mass constraints*, [Phys. Rev. D 101, 063534 (2020)](https://dx.doi.org/10.1103/PhysRevD.101.063534), [arXiv:1910.09565](https://arxiv.org/abs/1910.09565)
 
 In addition, to recognize the work that has gone into each simulation suite by the respective team, please cite the following papers (at minimum) if computations based on the corresponding simulations are used:
 
@@ -32,7 +32,7 @@ In addition, to recognize the work that has gone into each simulation suite by t
 
 > van Daalen et al., *The effects of galaxy formation on the matter power spectrum: A challenge for precision cosmology*, [Mon. Not. Roy. Astron. Soc., 415, 3649 (2011)](https://dx.doi.org/10.1111/j.1365-2966.2011.18981.x), arXiv:[1104.1174](https://arxiv.org/abs/1104.1174)
 
-> van Daalen et al., *Exploring the effects of galaxy formation on matter clustering through a library of simulation power spectra*, arXiv:[1906.00968](https://arxiv.org/abs/1906.00968) 
+> van Daalen et al., *Exploring the effects of galaxy formation on matter clustering through a library of simulation power spectra*, [Mon. Not. Roy. Astron. Soc., 491, 2424 (2019)](https://dx.doi.org/10.1093/mnras/stz3199), arXiv:[1906.00968](https://arxiv.org/abs/1906.00968) 
 
 ### IllustrisTNG (http://www.tng-project.org)
 
@@ -60,4 +60,4 @@ In addition, to recognize the work that has gone into each simulation suite by t
 
 > McCarthy et al., *The BAHAMAS project: the CMB--large-scale structure tension and the roles of massive neutrinos and galaxy formation*, [Mon. Not. Roy. Astron. Soc., 476, 2999 (2018)](https://dx.doi.org/10.1093/mnras/sty377), arXiv:[1712.02411](https://arxiv.org/abs/1712.02411) 
 
-> van Daalen et al., *Exploring the effects of galaxy formation on matter clustering through a library of simulation power spectra*, arXiv:[1906.00968](https://arxiv.org/abs/1906.00968) 
+> van Daalen et al., *Exploring the effects of galaxy formation on matter clustering through a library of simulation power spectra*, [Mon. Not. Roy. Astron. Soc., 491, 2424 (2019)](https://dx.doi.org/10.1093/mnras/stz3199), arXiv:[1906.00968](https://arxiv.org/abs/1906.00968) 
